@@ -1,9 +1,0 @@
-name: 'GitHub Archive Action'
-description: 'It exports your GitHub data to a SQLite database in a branch of your repository'
-author: 'GitHub OCTO'
-runs:
-  using: 'node12'
-  main: 'dist/index.js'
-branding:
-  color: 'purple'
-  icon: 'archive'
