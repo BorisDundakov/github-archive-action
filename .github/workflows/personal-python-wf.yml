@@ -13,7 +13,7 @@ permissions:
   contents: read
 
 jobs:
-  substract 4 from 6:
+  substract four from six:
 
     runs-on: ubuntu-latest
 
